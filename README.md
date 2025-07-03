@@ -1,4 +1,4 @@
-# 👋 Farhansyah Yusuf Maulana (Farhan)
+# 👋 Hai Aku Farhansyah Yusuf Maulana (Farhan)
 
 Halo! Saya Farhan, web developer yang biasa kerja pakai Laravel dan React.  
 Styling pakai Tailwind CSS, dan sistem operasi sehari-hari pakai Arch Linux.
