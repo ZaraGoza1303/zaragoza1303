@@ -39,3 +39,5 @@ Aplikasi berbasis web untuk menampilkan hasil klasifikasi jerawat dari Teachable
 
 Terima kasih udah mampir ke profil ini.  
 Kalau ada ide kolaborasi atau cuma mau ngobrol soal ngoding, feel free buat connect!
+
+📷 Instagram: [@hansyahym_](https://instagram.com/hansyamym_)
