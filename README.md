@@ -24,7 +24,7 @@ Currently, I'm focusing on building my portfolio while looking for interesting o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 
   <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Livewire-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Livewire"/>
   <img src="https://img.shields.io/badge/Filament-E83A3A?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament"/>
@@ -35,6 +35,7 @@ Currently, I'm focusing on building my portfolio while looking for interesting o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
+
 
 ## 🚀 Some Projects
 
