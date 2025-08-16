@@ -28,7 +28,7 @@ Currently, I'm focusing on building my portfolio while looking for interesting o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Livewire-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Livewire"/>
   <img src="https://img.shields.io/badge/Filament-E83A3A?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/optimized/solid/cog.svg" alt="TailwindCSS" width="40" height="40"/>
 
   <!-- Tools & OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
